@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/svuddara/Documents/VDP/VisaDirectApiAndroidExample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/svuddara/Documents/VDP/VisaDirectApiAndroidExample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b51c886714da5a0c62a972e87c2a951938314ff2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/svuddara/Documents/VDP/VisaDirectApiAndroidExample/app/libs/httpclient-4.5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e3cecc566df91338c6c67883b89ddd05a17db43">
+        <dex dex="/Users/svuddara/Documents/VDP/VisaDirectApiAndroidExample/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpclient-4.5.1_19f04bbceb8647f5d9d14cdad3912c4007f88548/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/svuddara/Documents/VDP/VisaDirectApiAndroidExample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2e4920de7cd09f515942688bb23cd3bac484f1d">
+        <dex dex="/Users/svuddara/Documents/VDP/VisaDirectApiAndroidExample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8de8b7ee2cc0750a260199f5a4d31150bf0151ac/classes.dex" />
+    </item>
+
+</items>
